@@ -1,0 +1,53 @@
+Toy Store Functionalities
+🛠️ Admin Functionalities
+User Management
+CRUD operations for users: Create, read, update, and delete user accounts.
+Manage user roles: Promote or demote users to or from admin roles.
+View user details: Access detailed information about each user.
+Product Management
+CRUD operations for categories: Create, read, update, and delete product categories.
+Category management: Manage product categories.
+View all product reviews: Access reviews left by customers for all products.
+View all products: Access detailed information about all products.
+Order Management
+View all orders: Access all order details and statuses.
+Update order status: Change the status of orders (e.g., mark as shipped, delivered).
+Payment Management
+View all payment transactions: Access detailed information about all payment transactions.
+Offer Management
+Provide different offers: Create and manage various offers and promotions for customers and toy store owners.
+🛒 Customer Functionalities
+User Account
+Register: Create a new user account.
+Login: Access the account using login credentials.
+Update profile information: Edit personal information.
+Change password: Update the account password.
+Shopping
+Browse products and categories: View and navigate through available products and categories.
+Add/remove items to/from cart: Manage items in the shopping cart.
+Proceed to checkout and place orders: Complete the purchasing process.
+Order Management
+View order history and status: Access details and statuses of past orders.
+Cancel orders before shipment: Cancel orders before they are shipped.
+Change order address: Update delivery details and address.
+Review and Rating
+Rate and review purchased products: Leave ratings and reviews for purchased products.
+View and filter product reviews: Access and filter reviews for products.
+Payment Management
+Make payment: Complete the payment process for orders.
+💼 Toy Store Owner Functionalities
+Product Management
+CRUD operations for own products: Create, read, update, and delete own products.
+Manage product details: Edit product descriptions, prices, images, etc.
+Track product inventory and stock levels: Monitor and update stock levels.
+Order Management
+View orders related to own products: Access orders specific to the owner's products.
+View all orders: Access all orders.
+Update order status: Change the status of orders (e.g., mark as shipped).
+Offer Management
+Apply offers: Manage and apply offers and promotions to products.
+User Account
+Register: Create a new toy store owner account.
+Login: Access the account using login credentials.
+Update profile information: Edit personal information.
+Change password: Update the account password.
