@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\models\\db_models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\models\\db_models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\models\\db_models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\models\\db_models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\toystoremanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\toystoremanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Refund.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
+              "RelativeToolTip": "ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:46:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Models\\DB_Models\\Category.cs",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\Models\\DB_Models\\Category.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Models\\DB_Models\\Category.cs",
+              "RelativeToolTip": "ToyStoreManagment\\Models\\DB_Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:46:01.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToyStoreManagment",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\ToyStoreManagment.csproj",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\ToyStoreManagment.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\ToyStoreManagment.csproj",
+              "RelativeToolTip": "ToyStoreManagment\\ToyStoreManagment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T04:45:22.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
