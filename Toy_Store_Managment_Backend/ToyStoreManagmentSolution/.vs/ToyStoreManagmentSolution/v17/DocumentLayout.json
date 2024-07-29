@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\entrypoint.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\entrypoint.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\toystoremanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\toystoremanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\migrations\\20240725071210_intiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\migrations\\20240725071210_intiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\models\\db_models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\models\\db_models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\models\\db_models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\models\\db_models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|c:\\users\\vc\\desktop\\capstone_project\\toy_store_managment_backend\\toystoremanagmentsolution\\toystoremanagment\\toystoremanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E0E1F8FE-A61C-4CEC-8BA7-C86630087DAA}|ToyStoreManagment\\ToyStoreManagment.csproj|solutionrelative:toystoremanagment\\toystoremanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +42,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 178,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "entrypoint.sh",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\entrypoint.sh",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\entrypoint.sh",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\entrypoint.sh",
+              "RelativeToolTip": "ToyStoreManagment\\entrypoint.sh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-07-29T04:37:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240725071210_intiall.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Migrations\\20240725071210_intiall.cs",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\Migrations\\20240725071210_intiall.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Migrations\\20240725071210_intiall.cs",
+              "RelativeToolTip": "ToyStoreManagment\\Migrations\\20240725071210_intiall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:12:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\appsettings.json",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\appsettings.json",
+              "RelativeToolTip": "ToyStoreManagment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T07:11:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Dockerfile",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\Dockerfile",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Dockerfile",
+              "RelativeToolTip": "ToyStoreManagment\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:46:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Program.cs",
+              "RelativeDocumentMoniker": "ToyStoreManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Program.cs",
+              "RelativeToolTip": "ToyStoreManagment\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:34:10.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Refund.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
               "RelativeDocumentMoniker": "ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
@@ -34,12 +121,11 @@
               "RelativeToolTip": "ToyStoreManagment\\Models\\DB_Models\\Refund.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:46:12.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T04:46:12.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\Models\\DB_Models\\Category.cs",
               "RelativeDocumentMoniker": "ToyStoreManagment\\Models\\DB_Models\\Category.cs",
@@ -47,25 +133,20 @@
               "RelativeToolTip": "ToyStoreManagment\\Models\\DB_Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:46:01.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T04:46:01.777Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ToyStoreManagment",
+              "Title": "ToyStoreManagment.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\ToyStoreManagment.csproj",
               "RelativeDocumentMoniker": "ToyStoreManagment\\ToyStoreManagment.csproj",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Capstone_Project\\Toy_Store_Managment_Backend\\ToyStoreManagmentSolution\\ToyStoreManagment\\ToyStoreManagment.csproj",
               "RelativeToolTip": "ToyStoreManagment\\ToyStoreManagment.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-25T04:45:22.179Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
