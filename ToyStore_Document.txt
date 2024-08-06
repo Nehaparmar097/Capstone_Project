@@ -72,3 +72,8 @@ Update order status: Change the status of orders (e.g., mark as shipped).
 
 --Offer Management
 Apply offers: Manage and apply offers and promotions to products.
+
+
+live app link==
+
+https://toystoreneha.z13.web.core.windows.net/Mini-Project-Frontend/pages/index.html
